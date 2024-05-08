@@ -1,0 +1,65 @@
+[33mcommit ce5c580a98f94d989c58d1b466a9646ba1136a0e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Wed May 8 15:29:21 2024 -0600
+
+    Commit con los cambios parciales.
+
+[33mcommit 4b3049f0636a7e2aa7517aae9684978951431f1f[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Tue May 7 11:45:50 2024 -0600
+
+    demostración de como mover archivos con git.
+
+[33mcommit 6012d443eb02db64a28d5e35bf4e90095e589a02[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Tue May 7 11:43:58 2024 -0600
+
+    Demostración de como renombrar archivos con git.
+
+[33mcommit 31e4a87e03f6eef45cb8d15f3ea2327309757f8a[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Thu May 2 16:16:40 2024 -0600
+
+    Demostración de como borrar un archivo.
+
+[33mcommit 0348405c2c43b69be634bc7566d825ad1d790248[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Thu May 2 16:05:51 2024 -0600
+
+    Demostración de como borrar archivos del repositorio.
+
+[33mcommit d569d86107d4a19d9bc57a904129f367d365999c[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Thu May 2 14:40:08 2024 -0600
+
+    Se agregaron tablas para mostrar el comando: git diff --staged.
+
+[33mcommit 9f10f0f8dd028bd5523097d83688297225843b56[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Wed May 1 15:16:08 2024 -0600
+
+    Commit para integrar los archivos que faltaban en el commit anterior.
+
+[33mcommit a0fa229822b4c83afcb0606994a8d3c441d76f4b[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Wed May 1 15:15:04 2024 -0600
+
+    Commit para demostrar que podemos integrar los archivos que queramos.
+
+[33mcommit 354e7ef1eaa8eab33eff80b6247aaa5c272e429b[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Tue Apr 30 17:19:46 2024 -0600
+
+    Nueva pagina html 03 y modificacion de 01.
+
+[33mcommit a3f23f4b8d39648c1e3a0cb900db3025192f4ed8[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Tue Apr 30 17:17:43 2024 -0600
+
+    Nueva pagina html 02.
+
+[33mcommit af71eab06afb976404b0538817c7630f132aa115[m
+Author: Alejandro Jimenez Ramos <alex.jimenezr80@gmail.com>
+Date:   Tue Apr 30 16:59:50 2024 -0600
+
+    Documento vacio.
